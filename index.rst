@@ -3,21 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to pydicom's documentation!
-===================================
-
-Pydicom documrentation has moved to github.io
+Pydicom documentation has moved to github.io	
+--------------------------------------------
+Please see
 `https://pydicom.github.io/pydicom/ <https://pydicom.github.io/pydicom/>`_
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
