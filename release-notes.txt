@@ -1,0 +1,7 @@
+#summary Release notes for pydicom package releases
+----
+
+Pydicom documentation has moved to github.io	
+--------------------------------------------
+Please see
+`https://pydicom.github.io/pydicom/ <https://pydicom.github.io/pydicom/>`_
