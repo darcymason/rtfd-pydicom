@@ -14,4 +14,4 @@ Please see
 for the latest pydicom v1.0 documentation.
 
 For pydicom 0.9.x series documentation, see
-`<https://pydicom.github.io/pydicom/0.9/working_with_pixel_data.html>`_
+`<https://pydicom.github.io/pydicom/0.9/getting_started.html>`_
