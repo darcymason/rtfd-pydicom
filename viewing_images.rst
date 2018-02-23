@@ -9,4 +9,4 @@ Viewing Images
 Pydicom documentation has moved to github.io	
 --------------------------------------------
 Please see
-`https://pydicom.github.io/pydicom/ <https://pydicom.github.io/pydicom/>`_
+`<https://pydicom.github.io/pydicom/stable/viewing_images.html>`_

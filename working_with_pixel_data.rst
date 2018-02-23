@@ -10,4 +10,4 @@ Working with Pixel Data
 Pydicom documentation has moved to github.io	
 --------------------------------------------
 Please see
-`https://pydicom.github.io/pydicom/ <https://pydicom.github.io/pydicom/>`_
+`<https://pydicom.github.io/pydicom/stable/working_with_pixel_data.html>`_
