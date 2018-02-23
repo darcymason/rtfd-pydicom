@@ -8,5 +8,5 @@ Transition to pydicom 1.x
 
 Pydicom documentation has moved to github.io	
 --------------------------------------------
-Please see
-`https://pydicom.github.io/pydicom/ <https://pydicom.github.io/pydicom/>`_
+For this page, please see
+`<https://pydicom.github.io/pydicom/stable/transition_to_pydicom1.html>`_
